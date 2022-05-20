@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @singhpriya96
-- 👀 I’m interested in front end devlopment
+- 👀 I’m interested in AWS cloud,devops tools
 - 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pratyncha@gmail.com
