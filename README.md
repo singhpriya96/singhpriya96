@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @singhpriya96
-- 👀 I’m interested in AWS cloud,devops tools
-- 🌱 I’m currently learning React js
+- 👋 Hi, I’m Priya
+- 👀 I’m interested in cloud,devops tools
+- 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pratyncha@gmail.com
 
