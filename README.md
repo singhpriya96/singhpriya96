@@ -24,8 +24,10 @@ Passionate about CI/CD, IaC, and creating smooth developer experiences.
 
 
 ## 📫 Connect with Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/priya-singh-a64262214/)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratyncha@gmail.com) 
+<a href="https://www.linkedin.com/in/priya-singh-a64262214/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+</a>
+
 
 ---
 
