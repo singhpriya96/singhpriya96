@@ -28,7 +28,7 @@ Passionate about CI/CD, IaC, and creating smooth developer experiences.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" /> www.linkedin.com/in/priya-singh-a64262214
 </a> <br>
 <a href="mailto:pratyncha@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" width="30"/>pratyncha@gmail.com
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="30"/>spriya9108@gmail.com
 </a>
 
 
